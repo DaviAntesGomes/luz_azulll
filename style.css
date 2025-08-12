@@ -1,0 +1,16 @@
+body{
+    background-color: beige;
+    color: aqua;
+}
+
+section{
+    background-color: blue;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+    .chamada-texto{
+        margin-right: 40px;
+    }
